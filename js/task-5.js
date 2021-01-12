@@ -1,5 +1,9 @@
 // Напиши класс Car с указанными свойствами и методами.
-
+class Car{
+    constructor( speed, price, maxSpeed, isOn, distance){
+        
+    }
+}
 // class Car {
 //   /*
 //    * Добавь статический метод `getSpecs(car)`,
